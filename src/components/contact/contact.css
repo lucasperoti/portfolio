@@ -91,6 +91,10 @@
 
 }
 
+.contact__form-input:focus {
+    border-color:  black;   /* sexy hot pink */;
+}
+
 .contact__form-tag {
     position: absolute;
     top: -0.75rem;
